@@ -85,6 +85,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-stats-extended.vercel.app/api?username=RohanRanjan250&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&v=1)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RohanRanjan250&layout=compact&theme=tokyonight&v=1)  
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RohanRanjan250&theme=tokyonight&v=1)  
+![Your GitHub Stats](https://github-stats-extended.vercel.app/api?username=RohanRanjan250&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&v=2)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RohanRanjan250&layout=compact&theme=tokyonight&v=2)  
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=RohanRanjan250&theme=tokyonight&v=2)  
